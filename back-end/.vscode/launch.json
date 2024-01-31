@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-CrudBeckendApplication<crud-beckend>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.cassiano.crudbeckend.CrudBeckendApplication",
+            "projectName": "crud-beckend",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
